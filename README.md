@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL programming.  The example shows a simple loop that could unintentionally have an indexing issue. The solution shows how to modify the code to avoid this error, ensuring accurate loop iterations. 
